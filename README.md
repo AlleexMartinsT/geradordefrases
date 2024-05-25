@@ -1,10 +1,9 @@
-# flutter_application_1
+Alessandro Martins Torres 12217009
 
-12217002 - Jéssica Pereira Rangel
+Hiago Ferreira dos Santos 122100025
 
-124100001 - Leonarda Correia Amaral
+Nathalia Victoria de Saar Barcelos 12217004
 
-122100007 - Matheus Matos Rodrigues 
+https://prnt.sc/1D7wUrhlDnq4
+https://prnt.sc/KWYgecwvvLeL
 
-![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/1.png)
-![image](https://github.com/Jessrangelp/gerador1/blob/main/Imagem/2.png)
